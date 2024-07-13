@@ -1,0 +1,14 @@
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\bin\Debug\net6.0\Eccommerce.Core.deps.json
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\bin\Debug\net6.0\Eccommerce.Core.runtimeconfig.json
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\bin\Debug\net6.0\Eccommerce.Core.dll
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\bin\Debug\net6.0\Eccommerce.Core.pdb
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.csproj.AssemblyReference.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.AssemblyInfoInputs.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.AssemblyInfo.cs
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.dll
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\refint\Eccommerce.Core.dll
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.pdb
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\Eccommerce.Core.genruntimeconfig.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Core\obj\Debug\net6.0\ref\Eccommerce.Core.dll

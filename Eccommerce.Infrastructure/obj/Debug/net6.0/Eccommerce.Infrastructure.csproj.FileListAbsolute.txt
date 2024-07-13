@@ -1,0 +1,17 @@
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\bin\Debug\net6.0\Eccommerce.Infrastructure.deps.json
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\bin\Debug\net6.0\Eccommerce.Infrastructure.runtimeconfig.json
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\bin\Debug\net6.0\Eccommerce.Infrastructure.dll
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\bin\Debug\net6.0\Eccommerce.Infrastructure.pdb
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\bin\Debug\net6.0\Eccommerce.Core.dll
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\bin\Debug\net6.0\Eccommerce.Core.pdb
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.csproj.CopyComplete
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.dll
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\refint\Eccommerce.Infrastructure.dll
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.pdb
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\Eccommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\sabra\source\repos\ApiFolder\EccommerceProject\Eccommerce.Infrastructure\obj\Debug\net6.0\ref\Eccommerce.Infrastructure.dll
